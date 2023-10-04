@@ -14,3 +14,13 @@ Data is obtained from the UCI Machine Learning Repository. It contains <b>17 att
 
     
 __[Link to data source](https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub)__
+
+<b>Table of content:</b> 
+<ol>
+<li>Exploratory Data Analysis: Summary statistics & visualization</li>
+<li>Data Preprocessing</li>
+<li>Hypothesis Testing & Feature Selection</li>
+<li>Modeling: Logistic Regression</li>
+<li>Interpretation: Feature Importance</li>
+</ol>
+<br>
