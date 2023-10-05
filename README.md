@@ -15,7 +15,7 @@ Data is obtained from the UCI Machine Learning Repository. It contains <b>17 att
     
 __[Link to data source](https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub)__
 
-<b>Table of content:</b> 
+<b>Table of contents:</b> 
 <ol>
 <li>Exploratory Data Analysis: Summary statistics & visualization</li>
 <li>Data Preprocessing</li>
