@@ -23,4 +23,6 @@ __[Link to data source](https://www.sciencedirect.com/science/article/pii/S23523
 <li>Modeling: Logistic Regression</li>
 <li>Interpretation: Feature Importance</li>
 </ol>
+
+Please refer to <b>Final Project.ipynb</b> for the full report.
 <br>
